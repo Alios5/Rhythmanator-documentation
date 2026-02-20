@@ -108,6 +108,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.png',
     socialLinks: [
+      { icon: 'discord', link: 'https://discord.gg/QBxuPAj6sM' },
       { icon: 'github', link: 'https://github.com/Alios5/Rhythmanator-documentation' }
     ],
 
