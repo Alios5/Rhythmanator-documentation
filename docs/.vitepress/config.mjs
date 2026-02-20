@@ -5,8 +5,8 @@ export default defineConfig({
   title: "RhythmNator Editor",
   description: "RhythmNator Editor Documentation",
 
-  // Base URL pour GitHub Pages (format: /nom-du-repo/)
-  base: '/Rhythmanator-documentation/',
+  // Base URL pour GitHub Pages (custom domain = /)
+  base: '/',
 
   locales: {
     root: {
