@@ -11,11 +11,9 @@ Il vous permet de :
 - Organiser votre projet avec des thèmes et des groupes.
 - Exporter votre travail dans des fichiers `.rne` légers ou en **JSON propre**.
 
-## Dernière Version
+## Démarrage rapide
 
-**Version actuelle** : 0.3.3 (Windows)
-
-1. **Télécharger et Installer** : Obtenez la dernière version sur notre site web.
+1. **Télécharger et Installer** : Obtenez la dernière version sur [notre site web](https://rhythmnator.com/).
 2. **Créer un Projet** : Ouvrez l'application et cliquez sur "Nouveau projet".
 3. **Charger de la Musique** : Importez votre fichier audio (MP3, WAV, etc.).
 4. **Commencer à Mapper** : Placez vos premières notes sur la chronologie !
